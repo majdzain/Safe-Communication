@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_171"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk15to18-170.jar"/>
+	<classpathentry kind="lib" path="lib/bcutil-jdk15to18-170.jar"/>
+	<classpathentry kind="lib" path="lib/bcpkix-jdk15to18-170.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-csv-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
